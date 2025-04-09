@@ -1,0 +1,24 @@
+{
+  "name": "omnis_moriatur_manifest",
+  "version": "1.0.0",
+  "description": "from the first technomancer to every subsequent technomancer among the countless points marked by the reading of this manifesto",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping 127.0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarverott/Omnis_Moriatur_Manifest.git"
+  },
+  "keywords": [
+    "omnis",
+    "moriatur",
+    "manifesto"
+  ],
+  "author": "Sett Sarverott A.A.B.",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Sarverott/Omnis_Moriatur_Manifest/issues"
+  },
+  "homepage": "https://github.com/Sarverott/Omnis_Moriatur_Manifest#readme"
+}
