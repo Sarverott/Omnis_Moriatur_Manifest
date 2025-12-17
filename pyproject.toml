@@ -1,0 +1,13 @@
+[project]
+name = "omnis-moriatur-manifest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv.workspace]
+members = [
+    "CONTIUITY_REFACTOR_VECTORS/choiral-multithreading-digital-entities",
+    "CONTIUITY_REFACTOR_VECTORS/to-secure-and-expand-possesed-knowledge",
+]

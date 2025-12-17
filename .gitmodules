@@ -1,0 +1,24 @@
+[submodule "THE_OATH"]
+	path = THE_OATH
+	url = https://github.com/Sarverott/Declaration_of_the_People_from_Blackport.git
+	branch = master
+[submodule "SKRIPTONUS_PRIME"]
+	path = DECLARED_FUNDATIONS_CORE/planting-emergent-engine
+	url = https://github.com/Sarverott/skriptonus.wiki.git
+	branch = master
+[submodule "SETTERNET_REPUBLICS"]
+	path = DECLARED_FUNDATIONS_CORE/thoughtforest-connecting-roots
+	url = https://github.com/Sarverott/setternet.wiki.git
+	branch = master
+[submodule "FIRST_AUTOCTONS_IN_WAN"]
+	path = DECLARED_FUNDATIONS_CORE/rising-house-of-anubis
+	url = https://github.com/Sarverott/Ghosts_of_Miracle_Children.wiki.git
+	branch = master
+[submodule "AVOIDING_PROBLEM_WITH_LIBRARY_OF_ALEXANDRIA"]
+	path = CONTIUITY_REFACTOR_VECTORS/to-secure-and-expand-possesed-knowledge
+	url = https://github.com/Sarverott/omnilibris.wiki.git
+	branch = master
+[submodule "CASCADES_OF_MEANINGS_AND_PERSONALITY_CONTINUUMS"]
+	path = CONTIUITY_REFACTOR_VECTORS/choiral-multithreading-digital-entities
+	url = https://github.com/Sarverott/Choirs-of-UCDI.wiki.git
+	branch = master
